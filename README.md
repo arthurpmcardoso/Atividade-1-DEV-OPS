@@ -6,4 +6,6 @@ Projeto simples para aprendizado de CI/CD.
 
 Aplicação simples para testes de CI/CD. 
 
-# Atualização pipeline
+## Atualização Final
+
+Disparo do pipeline CI/CD para atividade.
